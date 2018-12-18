@@ -1,0 +1,8 @@
+yum update
+yum install epel-release
+yum install ansible
+vi /etc/ansible/hosts
+
+
+
+https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-ansible-on-centos-7
